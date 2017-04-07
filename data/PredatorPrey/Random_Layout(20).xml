@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simulation type="Cell" layout="specific">
+    <name>PredatorPrey</name>
+    <title>Random Layout (20)</title>
+    <author>Kyle Finke</author>
+    <dimensions>20</dimensions>
+    <states>
+        fish fish fish water fish fish fish fish water fish water fish fish shark fish fish shark fish fish fish 
+        water water water fish fish water fish fish fish fish fish shark fish fish shark fish fish shark fish water 
+        shark fish water shark fish fish shark fish fish shark water fish shark fish water fish fish fish fish shark 
+        water fish shark fish fish fish fish fish fish fish fish fish fish fish fish fish fish shark water fish 
+        fish fish fish fish fish fish fish fish fish fish fish fish fish fish water fish fish shark fish fish 
+        fish fish fish fish fish fish fish shark water shark fish water fish fish fish fish fish fish fish shark 
+        fish fish fish water fish fish fish water shark fish fish fish fish shark water shark fish fish shark fish 
+        fish fish water fish shark fish fish shark fish fish shark fish fish fish water water fish shark fish fish 
+        water water shark water shark shark fish fish water shark fish fish fish water fish fish fish fish shark shark 
+        water fish fish fish fish water fish fish fish fish fish fish fish fish shark fish fish water shark fish 
+        water fish fish fish fish fish water fish fish fish water fish fish fish fish fish fish fish fish fish 
+        fish fish fish fish water fish water fish water fish fish fish fish fish water fish fish fish water fish 
+        fish fish fish fish water fish water shark fish water fish fish fish shark fish shark fish fish fish fish 
+        fish fish shark fish shark shark fish fish fish fish shark water fish fish shark water fish water fish fish 
+        fish shark fish fish fish fish fish water fish fish fish water shark fish fish water fish fish water water 
+        fish fish fish fish fish fish fish fish fish fish fish fish fish shark fish water fish water water water 
+        fish fish fish fish fish fish fish fish fish fish fish water fish fish fish fish water fish fish fish 
+        fish shark fish shark shark water fish fish fish water fish fish fish shark shark fish fish water fish shark 
+        water fish fish fish fish shark fish fish shark fish fish fish shark fish shark water water fish shark fish 
+        fish fish shark fish fish fish water fish water shark fish water water fish fish water shark fish fish fish 
+    </states>
+</simulation>

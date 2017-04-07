@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simulation type="Cell" layout="specific">
+    <name>Segregation</name>
+    <title>Alternating</title>
+    <author>Kyle Finke</author>
+    <dimensions>10</dimensions>
+    <states>
+        red blue red blue red blue red blue red blue
+        blue red blue red blue red blue red blue red
+        red blue red blue red blue red blue red blue
+        blue red blue red blue red blue red blue red
+        red blue red blue red blue red blue red blue
+        blue red blue red blue red blue red blue red
+        red blue red blue red blue red blue red blue
+        blue red blue red blue red blue red blue red
+        red blue red blue red blue red blue red blue
+        blue red blue red blue red blue red blue red
+    </states>
+</simulation>

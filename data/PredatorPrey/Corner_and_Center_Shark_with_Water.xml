@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simulation type="Cell" layout="specific">
+    <name>PredatorPrey</name>
+    <title>Corner and Center Sharks</title>
+    <author>Kyle Finke</author>
+    <dimensions>11</dimensions>
+    <states>
+        shark water fish fish fish fish fish fish fish water shark
+        water water fish fish fish fish fish fish fish water water
+        fish fish fish fish fish fish fish fish fish fish fish
+        fish fish fish fish fish fish fish fish fish fish fish
+        fish fish fish fish water water water fish fish fish fish
+        fish fish fish fish water shark water fish fish fish fish
+        fish fish fish fish water water water fish fish fish fish
+        fish fish fish fish fish fish fish fish fish fish fish
+        fish fish fish fish fish fish fish fish fish fish fish
+        water water fish fish fish fish fish fish fish water water
+        shark water fish fish fish fish fish fish fish water shark
+    </states>
+</simulation>

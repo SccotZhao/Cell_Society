@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simulation type="Cell" layout="specific">
+    <name>Segregation</name>
+    <title>Random Layout</title>
+    <author>Kyle Finke</author>
+    <dimensions>12</dimensions>
+    <states>
+        red blue white red blue blue red white red red white red 
+        blue blue red blue white blue blue white red blue red white 
+        blue blue white white red blue white red blue red white red 
+        blue blue red red white white blue blue white red red red 
+        white blue white red blue red blue red blue red blue red 
+        white red white red blue red white blue blue blue red blue 
+        red white white red white red red blue red blue red blue 
+        white blue red red blue blue red blue white white blue blue 
+        red white white red red blue blue white white red red red 
+        red blue red red white blue red blue blue white white red 
+        blue red red blue blue red red red red red blue blue 
+        white red white white white white red red red red red blue 
+    </states>
+</simulation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simulation type="Cell" layout="specific">
+    <name>GameOfLife</name>
+    <title>Pentadecathlon</title>
+    <author>Kyle Finke</author>
+    <dimensions>18</dimensions>
+    <states>
+        dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead
+        dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead
+        dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead
+        dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead
+        dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead
+        dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead
+        dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead
+        dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead
+        dead dead dead dead dead dead alive dead dead dead dead alive dead dead dead dead dead dead
+        dead dead dead dead alive alive dead alive alive alive alive dead alive alive dead dead dead dead
+        dead dead dead dead dead dead alive dead dead dead dead alive dead dead dead dead dead dead
+        dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead
+        dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead
+        dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead
+        dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead
+        dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead
+        dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead
+        dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead
+    </states>
+</simulation>

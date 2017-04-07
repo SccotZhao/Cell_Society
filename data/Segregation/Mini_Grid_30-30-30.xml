@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simulation type="Cell" layout="specific">
+    <name>Segregation</name>
+    <title>Mini Grid: 30/30/30</title>
+    <author>Kyle Finke</author>
+    <dimensions>3</dimensions>
+    <states>
+        red blue white
+        white blue red
+        red white blue
+    </states>
+</simulation>

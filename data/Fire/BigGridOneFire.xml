@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simulation type="Cell" layout="specific">
+    <name>Fire</name>
+    <title>Single Fire</title>
+    <author>Kyle Finke</author>
+    <dimensions>20</dimensions>
+    <states>
+       tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree dead
+       tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree
+       tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree
+       tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree
+       tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree
+       tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree
+       tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree
+       tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree
+       tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree
+       tree tree tree tree tree tree tree tree tree fire tree tree tree tree tree tree tree tree tree tree
+       tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree
+       tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree
+       tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree
+       tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree
+       tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree
+       tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree
+       tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree
+       tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree
+       tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree
+       fire tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree
+    </states>
+</simulation>

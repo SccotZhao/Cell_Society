@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simulation type="Cell" layout="concentration">
+    <name>PredatorPrey</name>
+    <title>Random Layout (20)</title>
+    <author>Kyle Finke</author>
+    <dimensions>20</dimensions>
+    <states>
+        .33
+        .33
+        .34
+    </states>
+</simulation>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simulation type="Cell" layout="specific">
+    <name>PredatorPrey</name>
+    <title>Four Sharks</title>
+    <author>Kyle Finke</author>
+    <dimensions>2</dimensions>
+    <states>
+        shark shark
+        shark shark
+    </states>
+</simulation>

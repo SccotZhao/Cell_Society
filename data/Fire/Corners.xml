@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simulation type="Cell" layout="specific">
+    <name>Fire</name>
+    <title>Corners</title>
+    <author>Kyle Finke</author>
+    <dimensions>10</dimensions>
+    <states>
+        fire tree tree tree tree tree tree tree tree fire
+        tree tree tree tree tree tree tree tree tree tree
+        tree tree tree tree tree tree tree tree tree tree
+        tree tree tree tree tree tree tree tree tree tree
+        tree tree tree tree tree tree tree tree tree tree
+        tree tree tree tree tree tree tree tree tree tree
+        tree tree tree tree tree tree tree tree tree tree
+        tree tree tree tree tree tree tree tree tree tree
+        tree tree tree tree tree tree tree tree tree tree
+        fire tree tree tree tree tree tree tree tree fire
+    </states>
+</simulation>

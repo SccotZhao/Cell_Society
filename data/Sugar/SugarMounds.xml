@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simulation type="Cell" layout="specific">
+    <name>Sugar</name>
+    <title>Sugar Mounds</title>
+    <author>Kyle Finke</author>
+    <dimensions>9</dimensions>
+    <states>
+        low high high high low agent low low low
+        high high high low agent agent high high high
+        high high high low agent high high agent high
+        low low low low agent low low low low
+        low low low high high high agent agent low
+        low agent low high high high low low low
+        high low low high high high agent low low
+        high high agent low agent low high low low
+        high high high high high low low low low
+    </states>
+</simulation>

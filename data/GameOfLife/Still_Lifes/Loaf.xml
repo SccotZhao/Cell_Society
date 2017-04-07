@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simulation type="Cell" layout="specific">
+    <name>GameOfLife</name>
+    <title>Loaf</title>
+    <author>Kyle Finke</author>
+    <dimensions>6</dimensions>
+    <states>
+    	dead dead dead dead dead dead
+        dead dead alive alive dead dead
+        dead alive dead dead alive dead
+        dead dead alive dead alive dead
+        dead dead dead alive dead dead
+        dead dead dead dead dead dead
+    </states>
+</simulation>

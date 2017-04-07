@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simulation type="Cell" layout="random">
+    <name>GameOfLife</name>
+    <title>Random Layout (20)</title>
+    <author>Kyle Finke</author>
+    <states>
+    <dimensions>20</dimensions>
+    </states>
+</simulation>

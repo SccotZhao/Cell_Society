@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simulation type="Cell" layout="specific">
+    <name>PredatorPrey</name>
+    <title>Single Shark No Water</title>
+    <author>Kyle Finke</author>
+    <dimensions>11</dimensions>
+    <states>
+        fish fish fish fish fish fish fish fish fish fish fish
+        fish fish fish fish fish fish fish fish fish fish fish
+        fish fish fish fish fish fish fish fish fish fish fish
+        fish fish fish fish fish fish fish fish fish fish fish
+        fish fish fish fish fish fish fish fish fish fish fish
+        fish fish fish fish fish shark fish fish fish fish fish
+        fish fish fish fish fish fish fish fish fish fish fish
+        fish fish fish fish fish fish fish fish fish fish fish
+        fish fish fish fish fish fish fish fish fish fish fish
+        fish fish fish fish fish fish fish fish fish fish fish
+        fish fish fish fish fish fish fish fish fish fish fish
+    </states>
+</simulation>
